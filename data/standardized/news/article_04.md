@@ -1,0 +1,24 @@
+# Miu Lê và lời xin lỗi muộn màng của loạt sao Việt vướng vào ma túy
+
+**Source:** https://thanhnien.vn/miu-le-va-loi-xin-loi-muon-mang-cua-loat-sao-viet-vuong-vao-ma-tuy-18526051513021689.htm  
+**Crawled:** 2026-06-08T11:27:55.487496  
+**Words:** 923  
+
+---
+
+#  Miu Lê và lời xin lỗi muộn màng của loạt sao Việt vướng vào ma túy
+##  Miu Lê cùng nhiều gương mặt nổi tiếng như Chi Dân, Châu Việt Cường, Andrea Aybar hay Hữu Tín đều từng bày tỏ sự ăn năn sau khi vướng vòng lao lý vì 'nàng tiên nâu'. Dù lên tiếng xin lỗi và chịu trách nhiệm trước pháp luật, họ khó thể hoạt động nghệ thuật như trước. 
+## Miu Lê xin lỗi vì bê bối liên quan đến ma túy
+Căn cứ theo tài liệu điều tra và các quyết định tố tụng ngày 14.5 của Cơ quan Cảnh sát điều tra Công an TP.Hải Phòng (đã được Viện Kiểm sát nhân dân khu vực 4, TP.Hải Phòng phê chuẩn), đối với trường hợp của công dân Lê Ánh Nhật (nghệ danh ), cơ quan chức năng xác định cô là đối tượng thụ hưởng. Do đó, hiện chưa đủ căn cứ để xử lý hình sự và Miu Lê không bị khởi tố. Tuy nhiên, theo đúng quy định của pháp luật, Miu Lê sẽ chấp hành quyết định xử phạt vi phạm hành chính đối với hành vi sử dụng trái phép chất ma túy, đồng thời nghiêm túc chấp hành biện pháp quản lý tại địa phương trong thời hạn 1 năm.
+Miu Lê đánh mất hình ảnh tích cực, giàu năng lượng vì ồn ào liên quan đến ma túy
+Tuy không bị khởi tố nhưng phía công ty quản lý và cá nhân Miu Lê nhận thức rõ về tính chất nghiêm trọng của sự việc lần này. Việc sử dụng chất cấm là một sai lầm rất lớn, đi ngược lại với chuẩn mực đạo đức, lối sống của một nghệ sĩ và gây ra những tác động vô cùng tiêu cực. Giọng ca cảm thấy xấu hổ và vô cùng ân hận vì điều này.
+"Miu Lê ý thức rất rõ hành vi của mình đã ảnh hưởng xấu đến cộng đồng, trở thành một tấm gương không tốt, đặc biệt là đối với các bạn trẻ. Miu Lê vô cùng xấu hổ và ân hận vì điều đó", đơn vị quản lý nữ ca sĩ chia sẻ. 
+Thay mặt Miu Lê, phía công ty quản lý "xin cúi đầu gửi lời xin lỗi chân thành và sâu sắc nhất đến khán giả, người hâm mộ, các đối tác, nhãn hàng, nhà sản xuất và ban tổ chức, vì đã làm quý vị thất vọng và vì sự cố cá nhân của nghệ sĩ đã gây ảnh hưởng trực tiếp đến uy tín, cũng như các kế hoạch dự án của quý vị".
+Diễn viên Hữu Tín, người mẫu Nhikolai Đinh, Chi Dân... tiêu tan sự nghiệp vì ma túy
+Trước vụ việc của Miu Lê, showbiz Việt không ít lần chấn động bởi những bê bối liên quan đến ma túy của nghệ sĩ. Năm 2018, Châu Việt Cường bị bắt vì sử dụng ma túy dẫn đến ảo giác, khiến một cô gái tử vong. Nam ca sĩ bị tuyên phạt 13 năm tù vì tội giết người. Tại tòa, Châu Việt Cường bày tỏ sự ăn năn, thừa nhận sai lầm và cho biết sẵn sàng chấp nhận sự trừng phạt của pháp luật, đồng thời gửi lời xin lỗi tới gia đình nạn nhân.
+Năm 2023, Hữu Tín bị tuyên án 7 năm 6 tháng tù vì tội tổ chức sử dụng trái phép chất ma túy. Trong quá trình điều tra, Hữu Tín khai đã nghiện 3 năm, trung bình 2 tháng sử dụng ma túy một lần. Trước tòa, nam diễn viên thừa nhận toàn bộ hành vi vi phạm, thể hiện thái độ thành khẩn và sự hối hận muộn màng.
+Năm 2024, ca sĩ và người mẫu Andrea Aybar cũng vướng lùm xùm tương tự. Cả hai thừa nhận sai phạm, bày tỏ sự hổ thẹn trước công chúng và gửi lời xin lỗi tới khán giả cùng những người luôn yêu thương, dõi theo mình suốt thời gian qua. Ngoài ra, nhà thiết kế Công Trí, người mẫu Nhikolai Đinh, ca sĩ Chu Bin, diễn viên Hiệp Gà cũng bị réo tên vì ồn ào liên quan đến ma túy. Scandal này không chỉ hủy hoại sự nghiệp của các cá nhân liên quan mà còn tác động tiêu cực đến hình ảnh chung của giới giải trí, khiến niềm tin và thiện cảm của khán giả bị lung lay đáng kể.
+[Sau 16 năm hoạt động nghệ thuật, Miu Lê không ngừng làm mới hình ảnh với nhiều phong cách khác nhau, từ nét ngọt ngào, dễ thương đến cá tính, hiện đại. Nữ ca sĩ cũng nỗ lực thay đổi vóc dáng, từng giảm hơn 10kg, hoàn...](https://thanhnien.vn/dien-mao-cua-miu-le-thay-doi-ra-sao-185260513090250353.htm "Sau 16 năm hoạt động nghệ thuật, Miu Lê không ngừng làm mới hình ảnh với nhiều phong cách khác nhau, từ nét ngọt ngào, dễ thương đến cá tính, hiện đại. Nữ ca sĩ cũng nỗ lực thay đổi vóc dáng, từng giảm hơn 10kg, hoàn thiện ngoại hình để trở nên tự tin hơn trước khi vướng vào ồn ào liên quan đến ma túy.")
+Giấy phép xuất bản số 110/GP - BTTTT cấp ngày 24.3.2020 © 2003-2026 Bản quyền thuộc về Báo Thanh Niên. Cấm sao chép dưới mọi hình thức nếu không có sự chấp thuận bằng văn bản. 
+####  Bạn không thể gửi bình luận liên tục. Xin hãy đợi giây nữa.
+Bình luận ()

@@ -26,37 +26,64 @@ def semantic_search(query: str, top_k: int = 10) -> list[dict]:
         }
         Sorted by score descending.
     """
-    # TODO: Implement semantic search
-    #
-    # Bước 1: Embed query bằng cùng model ở Task 4
-    # Bước 2: Query vector store (cosine similarity)
-    # Bước 3: Return top_k results
-    #
-    # Ví dụ với Weaviate:
-    # import weaviate
-    # from sentence_transformers import SentenceTransformer
-    #
-    # model = SentenceTransformer("BAAI/bge-m3")
-    # query_embedding = model.encode(query).tolist()
-    #
-    # client = weaviate.connect_to_local()
-    # collection = client.collections.get("DrugLawDocs")
-    #
-    # results = collection.query.near_vector(
-    #     near_vector=query_embedding,
-    #     limit=top_k,
-    #     return_metadata=MetadataQuery(distance=True)
-    # )
-    #
-    # return [
-    #     {
-    #         "content": obj.properties["content"],
-    #         "score": 1 - obj.metadata.distance,  # distance → similarity
-    #         "metadata": {"source": obj.properties["source"], ...}
-    #     }
-    #     for obj in results.objects
-    # ]
-    raise NotImplementedError("Implement semantic_search")
+    # Try to use SentenceTransformer embeddings if available (matching Task 4).
+    # Fallback: lightweight token-overlap scoring on local markdown files.
+    from pathlib import Path
+    import re
+
+    STD_DIR = Path(__file__).parent.parent / "data" / "standardized"
+    if not STD_DIR.exists():
+        return []
+
+    md_files = sorted(STD_DIR.rglob("*.md"))
+    if not md_files:
+        return []
+
+    texts = []
+    metas = []
+    for md in md_files:
+        try:
+            content = md.read_text(encoding="utf-8").strip()
+        except Exception:
+            continue
+        if not content:
+            continue
+        texts.append(content)
+        metas.append({"source": md.name, "source_path": str(md.relative_to(STD_DIR))})
+
+    # Attempt embedding-based similarity using sentence-transformers (if installed).
+    try:
+        from sentence_transformers import SentenceTransformer
+
+        model = SentenceTransformer("BAAI/bge-m3")
+        # encode texts and query with normalized embeddings → dot product = cosine
+        text_embs = model.encode(texts, normalize_embeddings=True, show_progress_bar=False)
+        query_emb = model.encode([query], normalize_embeddings=True, show_progress_bar=False)[0]
+
+        def _dot(a, b):
+            return float(sum(x * y for x, y in zip(a, b)))
+
+        scores = [_dot(query_emb, te) for te in text_embs]
+    except Exception:
+        # Fallback: token overlap / frequency score (fast, no extra deps)
+        q_tokens = [t.lower() for t in re.findall(r"\w+", query, flags=re.UNICODE)]
+        q_set = set(q_tokens)
+        scores = []
+        for txt in texts:
+            tokens = [t.lower() for t in re.findall(r"\w+", txt, flags=re.UNICODE)]
+            if not tokens:
+                scores.append(0.0)
+                continue
+            # score = sum of query token frequencies in document, normalized
+            cnt = sum(tokens.count(tok) for tok in q_set)
+            scores.append(float(cnt) / max(1, len(tokens)))
+
+    results = []
+    for txt, sc, meta in zip(texts, scores, metas):
+        results.append({"content": txt, "score": float(sc), "metadata": meta})
+
+    results.sort(key=lambda r: r["score"], reverse=True)
+    return results[: max(0, int(top_k))]
 
 
 if __name__ == "__main__":
