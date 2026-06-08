@@ -1,0 +1,47 @@
+{
+  "crawled_at": "2026-06-08T11:28:06.003364",
+  "total": 5,
+  "success": 5,
+  "articles": [
+    {
+      "file": "article_01.json",
+      "url": "https://vnexpress.net/ca-si-long-nhat-son-ngoc-minh-bi-bat-vi-lien-quan-ma-tuy-5060857.html",
+      "title": "Ca sĩ Long Nhật, Sơn Ngọc Minh bị bắt vì liên quan ma túy - Báo VnExpress",
+      "success": true,
+      "word_count": 503,
+      "error": null
+    },
+    {
+      "file": "article_02.json",
+      "url": "https://vnexpress.net/anh-em-ca-si-chi-dan-ru-nhieu-nguoi-choi-ma-tuy-nhu-the-nao-4929804.html",
+      "title": "Anh em ca sĩ Chi Dân rủ nhiều người chơi ma túy như thế nào - Báo VnExpress",
+      "success": true,
+      "word_count": 869,
+      "error": null
+    },
+    {
+      "file": "article_03.json",
+      "url": "https://vnexpress.net/ca-si-miu-le-bi-bat-voi-cao-buoc-to-chuc-su-dung-ma-tuy-5074769.html",
+      "title": "Ca sĩ Miu Lê bị bắt với cáo buộc tổ chức sử dụng ma túy - Báo VnExpress",
+      "success": true,
+      "word_count": 854,
+      "error": null
+    },
+    {
+      "file": "article_04.json",
+      "url": "https://thanhnien.vn/miu-le-va-loi-xin-loi-muon-mang-cua-loat-sao-viet-vuong-vao-ma-tuy-18526051513021689.htm",
+      "title": "Miu Lê và lời xin lỗi muộn màng của loạt sao Việt vướng vào ma túy",
+      "success": true,
+      "word_count": 923,
+      "error": null
+    },
+    {
+      "file": "article_05.json",
+      "url": "https://tuoitre.vn/vien-kiem-sat-tp-hcm-nhieu-nghe-si-nguoi-noi-tieng-bi-khoi-to-do-lien-quan-ma-tuy-20251209142132042.htm",
+      "title": "Viện kiểm sát TP.HCM: Nhiều nghệ sĩ, người nổi tiếng bị khởi tố do liên quan ma túy - Tuổi Trẻ Online",
+      "success": true,
+      "word_count": 1069,
+      "error": null
+    }
+  ]
+}
