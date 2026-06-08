@@ -1,17 +1,77 @@
 [
   {
     "question": "Hình phạt cho tội tàng trữ trái phép chất ma tuý theo Điều 249 Bộ luật Hình sự?",
-    "expected_answer": "Phạt tù từ 1 đến 5 năm đối với trường hợp tàng trữ từ 1g đến dưới 5g heroin hoặc cocaine, hoặc chất ma tuý khác với khối lượng tương đương.",
+    "expected_answer": "Phạt tù từ 1 đến 5 năm đối với trường hợp tàng trữ từ 1g đến dưới 5g heroin hoặc cocaine, hoặc chất ma tuý khác với khối lượng tương đương. Mức tù có thể lên đến 20 năm hoặc chung thân nếu số lượng lớn.",
     "expected_context": "Bộ luật Hình sự 2015, Điều 249"
   },
   {
     "question": "Luật Phòng chống ma tuý 2021 quy định những hình thức cai nghiện nào?",
-    "expected_answer": "Cai nghiện tự nguyện tại gia đình, cai nghiện tự nguyện tại cộng đồng, cai nghiện tự nguyện tại cơ sở cai nghiện, và cai nghiện bắt buộc tại cơ sở cai nghiện.",
+    "expected_answer": "Luật Phòng chống ma tuý 2021 quy định 4 hình thức cai nghiện: cai nghiện tự nguyện tại gia đình, cai nghiện tự nguyện tại cộng đồng, cai nghiện tự nguyện tại cơ sở cai nghiện, và cai nghiện bắt buộc tại cơ sở cai nghiện.",
     "expected_context": "Luật Phòng chống ma tuý 2021, Chương V"
   },
   {
     "question": "Danh mục các chất ma tuý thuộc nhóm I theo quy định pháp luật Việt Nam gồm những chất nào?",
-    "expected_answer": "Nhóm I gồm các chất ma tuý tuyệt đối cấm sử dụng trong y học và đời sống, bao gồm heroin, cocaine, methamphetamine, MDMA (ecstasy), cannabis (cần sa), và các chất tương tự.",
+    "expected_answer": "Nhóm I gồm các chất ma tuý tuyệt đối cấm sử dụng trong y học và đời sống, bao gồm heroin, cocaine, methamphetamine, MDMA (ecstasy), cannabis (cần sa), và các chất tương tự có tác dụng kích thích thần kinh mạnh.",
     "expected_context": "Nghị định 57/2022/NĐ-CP, Phụ lục I"
+  },
+  {
+    "question": "Tội vận chuyển trái phép chất ma tuý bị xử phạt như thế nào?",
+    "expected_answer": "Tội vận chuyển trái phép chất ma tuý theo Điều 250 Bộ luật Hình sự bị phạt tù từ 2 đến 7 năm. Khung hình phạt tăng nặng có thể lên đến 20 năm tù hoặc tù chung thân tùy vào số lượng chất ma tuý và tình tiết tăng nặng.",
+    "expected_context": "Bộ luật Hình sự 2015, Điều 250"
+  },
+  {
+    "question": "Tiền chất ma tuý là gì và được quản lý như thế nào?",
+    "expected_answer": "Tiền chất ma tuý là các hoá chất không thể thiếu trong quá trình điều chế, sản xuất chất ma tuý. Theo Luật Phòng chống ma tuý 2021, tiền chất được quản lý chặt chẽ, chỉ được sản xuất, kinh doanh, xuất nhập khẩu khi có giấy phép của cơ quan có thẩm quyền.",
+    "expected_context": "Luật Phòng chống ma tuý 2021, Chương IV"
+  },
+  {
+    "question": "Người sử dụng trái phép chất ma tuý bị xử lý như thế nào theo pháp luật Việt Nam?",
+    "expected_answer": "Người sử dụng trái phép chất ma tuý lần đầu bị xử phạt vi phạm hành chính và bắt buộc cai nghiện tại cộng đồng. Tái phạm có thể bị áp dụng biện pháp đưa vào cơ sở cai nghiện bắt buộc theo quy định của Luật Phòng chống ma tuý 2021.",
+    "expected_context": "Luật Phòng chống ma tuý 2021; Nghị định 105/2021/NĐ-CP"
+  },
+  {
+    "question": "Ca sĩ Châu Việt Cường bị bắt vì liên quan đến ma tuý như thế nào?",
+    "expected_answer": "Ca sĩ Châu Việt Cường bị bắt giữ vào năm 2018 liên quan đến vụ việc một cô gái tử vong tại nhà anh. Kết quả điều tra cho thấy anh đã nhét tỏi vào miệng cô gái trong khi cô đang trong trạng thái bị ảnh hưởng bởi ma tuý. Anh bị kết án về tội giết người.",
+    "expected_context": "Tin tức về nghệ sĩ liên quan ma tuý"
+  },
+  {
+    "question": "Nghị định 105/2021/NĐ-CP quy định gì về xử phạt vi phạm hành chính trong lĩnh vực phòng chống ma tuý?",
+    "expected_answer": "Nghị định 105/2021/NĐ-CP quy định mức xử phạt vi phạm hành chính trong lĩnh vực phòng chống ma tuý, bao gồm phạt tiền từ 1 đến 10 triệu đồng đối với hành vi sử dụng trái phép chất ma tuý, và các hình thức xử phạt bổ sung như tịch thu phương tiện, đình chỉ hoạt động.",
+    "expected_context": "Nghị định 105/2021/NĐ-CP"
+  },
+  {
+    "question": "Tội mua bán trái phép chất ma tuý có mức hình phạt tối đa là bao nhiêu?",
+    "expected_answer": "Tội mua bán trái phép chất ma tuý theo Điều 251 Bộ luật Hình sự có mức hình phạt tối đa là tử hình, áp dụng trong trường hợp mua bán số lượng rất lớn chất ma tuý hoặc có các tình tiết tăng nặng đặc biệt như có tổ chức, tái phạm nguy hiểm.",
+    "expected_context": "Bộ luật Hình sự 2015, Điều 251"
+  },
+  {
+    "question": "Cơ sở cai nghiện bắt buộc hoạt động theo quy định nào?",
+    "expected_answer": "Cơ sở cai nghiện bắt buộc hoạt động theo Luật Phòng chống ma tuý 2021 và Nghị định hướng dẫn. Đây là cơ sở do Nhà nước thành lập, tiếp nhận người nghiện ma tuý theo quyết định của Toà án nhân dân, thời gian cai nghiện từ 12 đến 24 tháng.",
+    "expected_context": "Luật Phòng chống ma tuý 2021, Điều 32-36"
+  },
+  {
+    "question": "Diễn viên Hiếu Orion bị bắt vì tội gì liên quan đến ma tuý?",
+    "expected_answer": "Diễn viên Hiếu Orion (tên thật Vũ Đức Hiếu) bị bắt vì tàng trữ trái phép chất ma tuý. Anh bị phát hiện khi cơ quan công an kiểm tra và tìm thấy ma tuý tại nơi ở của anh.",
+    "expected_context": "Tin tức về nghệ sĩ liên quan ma tuý"
+  },
+  {
+    "question": "Quy định về phòng chống ma tuý trong trường học theo Luật Phòng chống ma tuý 2021?",
+    "expected_answer": "Luật Phòng chống ma tuý 2021 quy định các cơ sở giáo dục phải tổ chức tuyên truyền, giáo dục phòng chống ma tuý; phối hợp với gia đình quản lý học sinh; kịp thời phát hiện và thông báo cho cơ quan chức năng khi phát hiện học sinh liên quan đến ma tuý.",
+    "expected_context": "Luật Phòng chống ma tuý 2021, Điều 7-10"
+  },
+  {
+    "question": "Tội trồng cây có chứa chất ma tuý bị xử phạt như thế nào?",
+    "expected_answer": "Tội trồng cây có chứa chất ma tuý theo Điều 247 Bộ luật Hình sự bị phạt tù từ 6 tháng đến 3 năm. Trường hợp tái phạm hoặc số lượng cây lớn (từ 500 cây trở lên) có thể bị phạt tù từ 3 đến 7 năm.",
+    "expected_context": "Bộ luật Hình sự 2015, Điều 247"
+  },
+  {
+    "question": "Rapper Lê Minh Hoàng (Hoàng Mập) bị xử lý như thế nào vì liên quan đến ma tuý?",
+    "expected_answer": "Rapper Lê Minh Hoàng hay còn gọi là Hoàng Mập bị bắt giữ vì liên quan đến ma tuý, cụ thể là tàng trữ và sử dụng trái phép chất ma tuý. Vụ việc gây chú ý trong cộng đồng âm nhạc Việt Nam.",
+    "expected_context": "Tin tức về nghệ sĩ liên quan ma tuý"
+  },
+  {
+    "question": "Luật Phòng chống ma tuý 2021 có hiệu lực từ khi nào và thay thế luật nào?",
+    "expected_answer": "Luật Phòng chống ma tuý 2021 (số 73/2021/QH14) được Quốc hội thông qua ngày 30/3/2021, có hiệu lực từ ngày 1/1/2022, thay thế Luật Phòng chống ma tuý 2000 (sửa đổi, bổ sung năm 2008).",
+    "expected_context": "Luật Phòng chống ma tuý 73/2021/QH14"
   }
 ]
