@@ -1,6 +1,16 @@
 # Bài Tập Nhóm — Drug Law RAG Chatbot & Evaluation Pipeline
 
 > Nguyễn Trường Phúc - 2A202600767
+> 
+> Trần Minh Anh - 2A202600706
+> 
+> Hoàng Hải Đăng - 2A202600916
+> 
+> Nguyễn Huyền San - 2A202600835
+> 
+> Vũ Đăng Khiêm -2A20260072
+> 
+> Lê Dương Hiếu - 2A202600635
 
 ---
 
@@ -38,8 +48,8 @@ Người dùng
 │  │                     │                        │   │
 │  │          score < threshold → PageIndex (T8)  │   │
 │  └──────────────────────────────────────────────┘   │
-│         │                                           │
-│         ▼                                           │
+│         │                                            │
+│         ▼                                            │
 │  ┌──────────────────────────────────────────────┐   │
 │  │         Generation (Task 10)                 │   │
 │  │  Lost-in-middle reorder → Format context     │   │
@@ -199,7 +209,12 @@ python -m group_project.evaluation.eval_pipeline
 
 | Thành viên         | MSSV        | Nhiệm vụ                                                          | Trạng thái    |
 | ------------------ | ----------- | ----------------------------------------------------------------- | ------------- |
-| Trần Minh Anh | 2A202600706 | Toàn bộ pipeline (Task 1–10), RAG Chatbot UI, Evaluation Pipeline | Hoàn thành |
+| Nguyễn Trường Phúc | 2A202600767 | Implement full pipeline (Task 1–10)e | Hoàn thành |
+| Trần Minh Anh | 2A202600706 | Serving custom embedding/reranker models on server | Hoàn thành |
+| Hoàng Hải Đăng | 2A202600916 | Implement RAG Chatbot UI | Hoàn thành |
+| Nguyễn Huyền San | 2A202600835 | Add fallback OpenAI/Jina when custom model error | Hoàn thành |
+| Vũ Đăng Khiêm | 2A202600727 | Run Eval pipeline with RAGAS | Hoàn thành |
+| Lê Dương Hiếu | 2A202600635 | Add gruadrail, out-of-scope filtering | Hoàn thành |
 
 ---
 
